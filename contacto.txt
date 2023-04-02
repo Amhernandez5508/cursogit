@@ -1,3 +1,8 @@
 Telefono:
-Ubicacion:
 Mail:
+Facebook:
+Instagram:
+Telegram:
+Direccion postal:
+Direccion comercial:
+Horario de atención:
