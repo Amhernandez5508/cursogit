@@ -1,5 +1,5 @@
 Telefono:
-Mail:
+Mail: maildeprueba@ejemplo.com
 Facebook:
 Instagram:
 Telegram:
